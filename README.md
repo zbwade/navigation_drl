@@ -19,11 +19,11 @@ The environment is considered solved when the agent obtains an average score of 
 * Windows (64-bit): https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip
 
 ## Running the Agent
-(1) Open jupyter lab or jupyter notebook in the cloned directory
-(2) The file "Navigation_Solution.ipynb" contains all the code you need to run to train an view the agent
-(3) The file "dgn_agent.py" defines the Deep Q-Network agent (no need to open)
-(4) The file "model.py" defines the deep neural network used to train the agent (no need to open)
-(5) The file "checkpoint_navDQN.pth" contains the weights of the trained agent (no need to open)
+* Open jupyter lab or jupyter notebook in the cloned directory
+* The file "Navigation_Solution.ipynb" contains all the code you need to run to train an view the agent
+* The file "dgn_agent.py" defines the Deep Q-Network agent (no need to open)
+* The file "model.py" defines the deep neural network used to train the agent (no need to open)
+* The file "checkpoint_navDQN.pth" contains the weights of the trained agent (no need to open)
 
 
 
