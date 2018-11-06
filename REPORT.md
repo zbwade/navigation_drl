@@ -17,3 +17,6 @@ The Deep Q-Network algorithm as presented in the original paper solved the probl
 The below displays the performance of the agent during training. The agent solved the environment after 444 episodes, ultimately achieving and average score of 14.05 over 100 episodes.
 
 ![results](trained_agent.png)
+
+### Ideas for Future Work
+The immediate next steps for future work will be implementing Duelling DQN architecture and experience replay.
