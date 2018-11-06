@@ -20,7 +20,7 @@ The environment is considered solved when the agent obtains an average score of 
 &nbsp;
 
 ## Running the Agent
-&nbsp;
+&nbsp
 (1) Open jupyter lab or jupyter notebook in the cloned directory
 (2) The file "Navigation_Solution.ipynb" contains all the code you need to run to train an view the agent
 (3) The file "dgn_agent.py" defines the Deep Q-Network agent (no need to open)
